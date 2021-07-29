@@ -478,6 +478,7 @@ button {
 .icon-md {
     font-size: 22px!important;
     padding-top: 20px;
+    margin-bottom: 30px;
 }
 
 .icon-lg {
@@ -783,6 +784,7 @@ h4 {
     color: rgb(255, 255, 255)!important;
 }
 
+
 .tc-black {
     color: rgb(0, 0, 0)!important;
 }
@@ -1049,5 +1051,4 @@ h4 {
         text-align: center;
     }
 }
-
 
